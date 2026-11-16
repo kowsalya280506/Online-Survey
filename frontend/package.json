@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "homepage": "https://kowsalya280506.github.io/Online-Survey",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
